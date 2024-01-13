@@ -37,6 +37,4 @@ public class Worker implements Serializable{
     public void setDailyIncome(Double dailyIncome) {
         this.dailyIncome = dailyIncome;
     }   
-
-
 }
